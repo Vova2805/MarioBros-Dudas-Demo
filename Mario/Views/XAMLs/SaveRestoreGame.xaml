@@ -1,0 +1,57 @@
+﻿<Page xmlns:ms="http://namespaces.mindscape.co.nz/wpf"  x:Class="Lab5_KPZ.Views.XAMLs.SaveRestoreGame"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Lab5_KPZ.Views.XAMLs"
+	   xmlns:convertors="clr-namespace:Lab5_KPZ.Convertors">
+
+    <StackPanel Width="Auto" Height="Auto" x:Name="SaveRestore" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,50,0,0">
+        <StackPanel.Resources>
+            <convertors:ControlVisibility x:Key="ControlVisibilityConv"/>
+        </StackPanel.Resources>
+        <Label Content="Game is saved" Foreground="White" FontWeight="Bold" 
+    		FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center"
+			   Visibility="{Binding Path=SaveRestore, ConverterParameter=Save, Converter={StaticResource ControlVisibilityConv}}"/>
+        <StackPanel Orientation="Vertical" Width="Auto" HorizontalAlignment="Center" VerticalAlignment="Top"
+					Visibility="{Binding Path=SaveRestore, ConverterParameter=Restore, Converter={StaticResource ControlVisibilityConv}}">
+            <Label VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" FontSize="20" >
+                <Bold>
+                    <InlineUIContainer>
+                        <TextBlock TextWrapping="Wrap" Text="Saved games"/>
+                    </InlineUIContainer>
+                </Bold>
+            </Label>
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <Grid Height="200" Width="300">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="50*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <DataGrid Grid.Row="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
+					  VerticalScrollBarVisibility="Auto" IsReadOnly="True"
+					  AutoGenerateColumns="False"
+					  FontSize="10" FontWeight="Bold" Grid.ColumnSpan="2" x:Name="PreviousGame">
+                        <DataGrid.Resources>
+                            <Style TargetType="DataGridRow">
+                                <EventSetter Event="MouseDoubleClick" Handler="Row_DoubleClick"/>
+                            </Style>
+                        </DataGrid.Resources>
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Date" Binding="{Binding Key}" FontStyle="Italic" Width="100"/>
+                            <DataGridTextColumn Header="Level" Binding="{Binding Value._state.Number}" Foreground="CadetBlue" Width="70"/>
+                            <DataGridTextColumn Header="Time" Binding="{Binding Value._state.Time}" Foreground="CadetBlue" Width="50"/>
+                            <DataGridTextColumn Header="Map index" Binding="{Binding Value._state.currentMap}" Foreground="CadetBlue" Width="60"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </ScrollViewer>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="5">
+                <Button Width="60" Height="Auto" Content="Close" FontSize="9" Margin="5" Click="Close_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Page>

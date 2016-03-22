@@ -1,0 +1,19 @@
+﻿<Page x:Class="Lab5_KPZ.Views.XAMLs.GameMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Lab5_KPZ.Views.XAMLs"
+      mc:Ignorable="d" 
+      Title="GameMenu">
+    <StackPanel Name="Menu" Orientation="Vertical" HorizontalAlignment="Right" VerticalAlignment="Center" KeyDown="Menu_KeyDown" Margin="0,100,0,0">
+        <Label x:Name="forPlayer" Foreground="Black" FontSize="15" FontWeight="Bold" HorizontalAlignment="Stretch" 
+			   HorizontalContentAlignment="Center"></Label>
+        <Button Content="Resume game" Width="200"  Click="Resume_click"/>
+        <Button Content="Save game"  Width="200" Click="Save_click"  Command="{Binding Path=Set}" CommandParameter="Save" />
+        <Button Content="Load saved game"  Width="200"  Click="Saved"  Command="{Binding Path=Set}"  CommandParameter="Restore" />
+        <Button Content="Settings"  Width="200"  Click="Settings_click"/>
+        <Button Content="Score"   Width="200" Click="Score"/>
+        <Button Content="Exit"  Width="200"  Click="Go_to_main_menu"/>
+    </StackPanel>
+</Page>

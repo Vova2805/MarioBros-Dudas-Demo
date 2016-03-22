@@ -1,0 +1,145 @@
+﻿<Page x:Class="Lab5_KPZ.Views.XAMLs.Difficulty"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Lab5_KPZ.Views.XAMLs"
+	  xmlns:UserControls="clr-namespace:Lab5_KPZ.UserControls"
+	   xmlns:convertors="clr-namespace:Lab5_KPZ.Convertors"
+      mc:Ignorable="d" 
+      Title="Difficulty">
+    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Height="Auto">
+        <StackPanel.Resources>
+            <convertors:ControlVisibility x:Key="ControlVisibilityConv"/>
+        </StackPanel.Resources>
+        <StackPanel Orientation="Vertical">
+            <Label Content="Do you want to upload your game?" HorizontalAlignment="Center" FontSize="20" Foreground="White" FontWeight="Bold"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button  Height="Auto" Content="Yes" FontSize="9" Width="100" Command="{Binding Path=SetUpload}" CommandParameter="Yes"/>
+                <Button  Height="Auto" Content="No" FontSize="9"  Width="100" Command="{Binding Path=SetUpload}" CommandParameter="No"/>
+                <Button Height="Auto" Content="Back" FontSize="9" Width="100" Click="Back_click"/>
+            </StackPanel>
+            <Label Content="Game is loaded successfully" HorizontalAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="Green" Visibility="{Binding Path=uploadedSuccessfull,Converter={StaticResource ControlVisibilityConv},ConverterParameter='true'}"/>
+            <StackPanel Orientation="Vertical" Margin="20" Visibility="{Binding Path=uploadGame,Converter={StaticResource ControlVisibilityConv},ConverterParameter='Yes'}">
+                <Button x:Name="From_file" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200" FontSize="10" Click="From_file_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="../Source/Images/upload.png" Width="30" Height="15"/>
+                        <TextBlock>From file</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Label Content="or from your account" HorizontalAlignment="Center" FontSize="20" Foreground="White" FontWeight="Bold"/>
+                <UserControls:ForLoadGame/>
+            </StackPanel>
+            
+        </StackPanel>
+
+        <Grid KeyDown="Grid_KeyDown" HorizontalAlignment="Center" VerticalAlignment="Top" Visibility="{Binding Path=uploadGame,Converter={StaticResource ControlVisibilityConv},ConverterParameter='No'}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Foreground="White" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Bold>
+                    <TextBlock FontSize="25" TextAlignment="Center" Text="Choose game difficulty"/>
+                </Bold>
+            </Label>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="150"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="150"/>
+                        <RowDefinition Height="30"/>
+                    </Grid.RowDefinitions>
+                    <Image x:Name="Image" Source="../Source/Images/different/easy.png" Grid.Row="0" Height="100" Width="100" PreviewMouseDown="Easy_click">
+                        <Image.Triggers>
+                            <EventTrigger RoutedEvent="Image.MouseEnter">
+                                <BeginStoryboard>
+                                    <Storyboard >
+                                        <DoubleAnimation Name="da" Storyboard.TargetName="Image" 
+                               Storyboard.TargetProperty="Width" From="100" To="150"
+                               Duration="0:0:1" AutoReverse="True"/>
+                                        <DoubleAnimation Name="db" Storyboard.TargetName="Image" 
+                               Storyboard.TargetProperty="Height" From="100" To="150"
+                               Duration="0:0:1" AutoReverse="True"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </Image.Triggers>
+                    </Image>
+                    <Label x:Name="Easy" Foreground="White" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <Bold>
+                            <TextBlock FontSize="10" TextAlignment="Center" Text="Easy"/>
+                        </Bold>
+                    </Label>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="30"/>
+                    </Grid.RowDefinitions>
+                    <Image x:Name="Image1" Source="../Source/Images/different/middle.png" Grid.Row="0" Height="100" Width="100" PreviewMouseDown="Middle_click">
+                        <Image.Triggers>
+                            <EventTrigger RoutedEvent="Image.MouseEnter">
+                                <BeginStoryboard>
+                                    <Storyboard >
+                                        <DoubleAnimation Name="da1" Storyboard.TargetName="Image1" 
+                               Storyboard.TargetProperty="Width" From="100" To="150"
+                               Duration="0:0:1" AutoReverse="True"/>
+                                        <DoubleAnimation Name="db1" Storyboard.TargetName="Image1" 
+                               Storyboard.TargetProperty="Height" From="100" To="150"
+                               Duration="0:0:1" AutoReverse="True"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </Image.Triggers>
+                    </Image>
+                    <Label x:Name="Middle" Foreground="White" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <Bold>
+                            <TextBlock FontSize="10" TextAlignment="Center" Text="Middle"/>
+                        </Bold>
+                    </Label>
+                </Grid>
+                <Grid Grid.Column="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="30"/>
+                    </Grid.RowDefinitions>
+                    <Image x:Name="Image2" Source="../Source/Images/different/hard.png" Grid.Row="0"  Height="100" Width="100" PreviewMouseDown="Hard_click">
+                        <Image.Triggers>
+                            <EventTrigger RoutedEvent="Image.MouseEnter">
+                                <BeginStoryboard>
+                                    <Storyboard >
+                                        <DoubleAnimation Name="da2" Storyboard.TargetName="Image2" 
+                               Storyboard.TargetProperty="Width" From="100" To="150"
+                               Duration="0:0:1" AutoReverse="True"/>
+                                        <DoubleAnimation Name="db2" Storyboard.TargetName="Image2" 
+                               Storyboard.TargetProperty="Height" From="100" To="150"
+                               Duration="0:0:1" AutoReverse="True"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </Image.Triggers>
+                    </Image>
+                    <Label x:Name="Hard" Foreground="White" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <Bold>
+                            <TextBlock FontSize="10" TextAlignment="Center" Text="Hard"/>
+                        </Bold>
+                    </Label>
+                </Grid>
+            </Grid>
+            <StackPanel Grid.Column="0" Grid.Row="2">
+                <Button Width="200" Height="Auto" Content="Next" FontSize="9" Grid.Column="1" Click="Next_click"/>
+            </StackPanel>
+        </Grid>
+    </StackPanel>
+   
+</Page>

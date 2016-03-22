@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="Lab5_KPZ.UserControls.HeaderControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Lab5_KPZ.UserControls"
+             xmlns:convertors="clr-namespace:Lab5_KPZ.Convertors"
+             mc:Ignorable="d" Width="Auto">
+    <Grid Height="100">
+        <Grid.Resources>
+            <convertors:ControlVisibility x:Key="ControlVisibilityConvert"/>
+        </Grid.Resources>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="100"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Column="0">
+            <local:LuigiControl HorizontalAlignment="Stretch" />
+        </StackPanel>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" Grid.Row="0">
+                <Bold>
+                    <TextBlock TextWrapping="Wrap" FontSize="25" Text="Time" TextAlignment="Center"/>
+                </Bold>
+            </Label>
+            <Label VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="25" HorizontalContentAlignment="Center" 
+				   Content="{Binding Path=CurrentLevel.Time,Mode=OneWay}" x:Name="LevelTime"  Foreground="White" Grid.Row="1">
+            </Label>
+            <Border x:Name="border1" BorderThickness="1" BorderBrush="LightSkyBlue" Grid.Row="1"/>
+            <Border x:Name="border2"  BorderThickness="1" BorderBrush="LightSkyBlue" Grid.Row="0"/>
+        </Grid>
+        <Border x:Name="border3"  BorderThickness="2" BorderBrush="LightSkyBlue" Grid.Row="0"/>
+    </Grid>
+</UserControl>

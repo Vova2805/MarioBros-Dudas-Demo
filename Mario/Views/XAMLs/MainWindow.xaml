@@ -1,0 +1,31 @@
+﻿<Window x:Name="MainWindow" x:Class="Lab5_KPZ.WindowBackground"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab5_KPZ"
+        xmlns:convertors="clr-namespace:Lab5_KPZ.Convertors"
+        xmlns:userControls="clr-namespace:Lab5_KPZ.UserControls"
+        mc:Ignorable="d"
+        Title="Mario by Dudas" WindowStartupLocation="CenterScreen"  Icon="../Source/Images/main.ico" SizeToContent="WidthAndHeight" ResizeMode="NoResize"
+	    KeyDown="WindowBackground_OnKeyDown" WindowStyle="ThreeDBorderWindow" KeyUp="MainWindow_KeyUp" Width="1366" Height="768" >
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="79*"/>
+            <ColumnDefinition Width="4*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="BackgroundImage" Stretch="Fill" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
+        <userControls:HeaderControl Width="Auto" Visibility="Visible" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
+        <Frame Grid.Row="1" Grid.ColumnSpan="2" Name="MyFrame" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Height="Auto" Width="Auto"
+			   Source="Startup.xaml" NavigationUIVisibility="Hidden" Panel.ZIndex="1" VerticalContentAlignment="Top"/>
+        <Canvas Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" x:Name="Mario_canvas" Grid.ColumnSpan="2">
+            <Image x:Name="Mario" Source="../Source/Images/Mario/NormRight.png" HorizontalAlignment="Left" Height="150" VerticalAlignment="Bottom" Stretch="Uniform" Width="100" Canvas.Left="-110" Canvas.Top="140"/>
+            <Image x:Name="Luigi" Source="../Source/Images/Luigi/Luigi.png" HorizontalAlignment="Left" Height="150" VerticalAlignment="Bottom" Stretch="Uniform" Width="125" Canvas.Left="-240" Canvas.Top="140"/>
+        </Canvas>
+    </Grid>
+</Window>

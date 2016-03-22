@@ -1,0 +1,537 @@
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\bin\Debug\Styles\OrdinaryStyle\OrdinaryButtonStyle.xaml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\bin\Debug\Styles\NightStyle\NightButtonStyle.xaml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\bin\Debug\Lab5_KPZ.exe.config
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\bin\Debug\Lab5_KPZ.exe
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\bin\Debug\Lab5_KPZ.pdb
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\bin\Debug\AutoMapper.dll
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\bin\Debug\Mindscape.WpfElements.dll
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\bin\Debug\Mindscape.WpfElements.xml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\Congratulation.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\ControlSettings.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\First.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\ForLoadGame.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\HeaderControl.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\LuigiControl.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\MarioControl.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\OnePlayerUserControl.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\RegistrationUserControl.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\Second.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\SettingsForTwo.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\SignInUserControl.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\TwoPlayerUserControl.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\Difficulty.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\ExitPage.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\GameMenu.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\Load_game.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\MainWindow.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\MapEditor.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\MenuPage.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\NewGame.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\Score.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\SettingsPage.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\Startup.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\UserChoose.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\App.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Lab5_KPZ_Content.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Lab5_KPZ_MarkupCompile.cache
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Lab5_KPZ_MarkupCompile.lref
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\Congratulation.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\ControlSettings.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\First.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\ForLoadGame.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\HeaderControl.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\LuigiControl.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\MarioControl.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\OnePlayerUserControl.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\RegistrationUserControl.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\Second.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\SettingsForTwo.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\SignInUserControl.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\UserControls\TwoPlayerUserControl.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\Difficulty.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\ExitPage.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\GameMenu.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\Load_game.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\MainWindow.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\MapEditor.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\MenuPage.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\NewGame.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\Score.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\SettingsPage.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\Startup.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Views\XAMLs\UserChoose.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Lab5_KPZ.g.resources
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Lab5_KPZ.Properties.Resources.resources
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\SuperMarioBros.csproj.GenerateResource.Cache
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Lab5_KPZ.exe.licenses
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Lab5_KPZ.exe
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\Lab5_KPZ.pdb
+F:\PI\PI_34\5 семестр\MarioBros Dudas\Lab5_KPZ\obj\Debug\SuperMarioBros.csprojResolveAssemblyReference.cache
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Styles\OrdinaryStyle\OrdinaryButtonStyle.xaml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Styles\NightStyle\NightButtonStyle.xaml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Lab5_KPZ.exe.config
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Lab5_KPZ.exe
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Lab5_KPZ.pdb
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\AutoMapper.dll
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Mindscape.WpfElements.dll
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Mindscape.WpfElements.xml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\SuperMarioBros.csprojResolveAssemblyReference.cache
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\Congratulation.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\ControlSettings.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\First.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\ForLoadGame.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\HeaderControl.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\LuigiControl.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\MarioControl.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\OnePlayerUserControl.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\RegistrationUserControl.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\Second.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\SettingsForTwo.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\SignInUserControl.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\TwoPlayerUserControl.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Difficulty.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\ExitPage.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\GameMenu.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Load_game.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MainWindow.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MapEditor.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MenuPage.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\NewGame.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Score.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\SettingsPage.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Startup.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\UserChoose.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\App.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ_Content.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ_MarkupCompile.cache
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ_MarkupCompile.lref
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\Congratulation.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\ControlSettings.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\First.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\ForLoadGame.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\HeaderControl.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\LuigiControl.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\MarioControl.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\OnePlayerUserControl.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\RegistrationUserControl.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\Second.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\SettingsForTwo.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\SignInUserControl.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\TwoPlayerUserControl.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Difficulty.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\ExitPage.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\GameMenu.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Load_game.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MainWindow.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MapEditor.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MenuPage.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\NewGame.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Score.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\SettingsPage.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Startup.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\UserChoose.baml
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.g.resources
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.Properties.Resources.resources
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\SuperMarioBros.csproj.GenerateResource.Cache
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.exe.licenses
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.exe
+F:\PI\PI_34\5 семестр\BACK_UP\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.pdb
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Lab5_KPZ.exe.config
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.exe
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.pdb
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Styles\OrdinaryStyle\OrdinaryButtonStyle.xaml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Styles\NightStyle\NightButtonStyle.xaml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Lab5_KPZ.exe
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Lab5_KPZ.pdb
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\AutoMapper.dll
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Mindscape.WpfElements.dll
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Mindscape.WpfElements.xml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\Congratulation.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\ControlSettings.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\First.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\ForLoadGame.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\HeaderControl.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\LuigiControl.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\MarioControl.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\OnePlayerUserControl.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\RegistrationUserControl.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\Second.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\SettingsForTwo.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\SignInUserControl.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\TwoPlayerUserControl.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Difficulty.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\ExitPage.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\GameMenu.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Load_game.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MainWindow.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MapEditor.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MenuPage.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\NewGame.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Score.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\SettingsPage.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Startup.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\UserChoose.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\App.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ_Content.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ_MarkupCompile.cache
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ_MarkupCompile.lref
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\Congratulation.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\ControlSettings.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\First.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\ForLoadGame.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\HeaderControl.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\LuigiControl.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\MarioControl.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\OnePlayerUserControl.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\RegistrationUserControl.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\Second.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\SettingsForTwo.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\SignInUserControl.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\UserControls\TwoPlayerUserControl.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Difficulty.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\ExitPage.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\GameMenu.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Load_game.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MainWindow.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MapEditor.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MenuPage.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\NewGame.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Score.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\SettingsPage.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Startup.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Views\XAMLs\UserChoose.baml
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.g.resources
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.Properties.Resources.resources
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\SuperMarioBros.csproj.GenerateResource.Cache
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.exe.licenses
+F:\PI\PI_34\5 семестр\MarioBros Dudas 3.0\Lab5_KPZ\obj\Debug\SuperMarioBros.csprojResolveAssemblyReference.cache
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\bin\Debug\Lab5_KPZ.exe.config
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Lab5_KPZ.exe
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Lab5_KPZ.pdb
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\Congratulation.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\ControlSettings.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\First.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\ForLoadGame.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\HeaderControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\LuigiControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\MarioControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\OnePlayerUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\RegistrationUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\Second.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\SettingsForTwo.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\SignInUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\TwoPlayerUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\Difficulty.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\ExitPage.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\GameMenu.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\Load_game.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\MainWindow.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\MapEditor.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\MenuPage.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\NewGame.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\Score.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\SettingsPage.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\Startup.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\UserChoose.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\App.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Lab5_KPZ_Content.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Lab5_KPZ_MarkupCompile.cache
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Lab5_KPZ_MarkupCompile.lref
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\bin\Debug\Styles\OrdinaryStyle\OrdinaryButtonStyle.xaml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\bin\Debug\Styles\NightStyle\NightButtonStyle.xaml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\bin\Debug\Lab5_KPZ.exe
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\bin\Debug\Lab5_KPZ.pdb
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\bin\Debug\AutoMapper.dll
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\bin\Debug\Mindscape.WpfElements.dll
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\bin\Debug\Mindscape.WpfElements.xml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\Congratulation.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\ControlSettings.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\First.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\ForLoadGame.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\HeaderControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\LuigiControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\MarioControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\OnePlayerUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\RegistrationUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\Second.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\SettingsForTwo.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\SignInUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\UserControls\TwoPlayerUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\Difficulty.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\ExitPage.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\GameMenu.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\Load_game.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\MainWindow.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\MapEditor.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\MenuPage.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\NewGame.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\Score.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\SettingsPage.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\Startup.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Views\XAMLs\UserChoose.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Lab5_KPZ.g.resources
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Lab5_KPZ.Properties.Resources.resources
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\SuperMarioBros.csproj.GenerateResource.Cache
+C:\Users\Vova\Desktop\MarioBros Dudas 3.0 FACADE\Lab5_KPZ\obj\Debug\Lab5_KPZ.exe.licenses
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\Views\Source\Images\Items\Blocks\pipe_head.png
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\Styles\OrdinaryStyle\OrdinaryButtonStyle.xaml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\Styles\NightStyle\NightButtonStyle.xaml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\Styles\OrdinaryStyle\OriginaryTextBoxStyle.xaml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\Styles\NightStyle\NightTextBoxStyle.xaml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\Lab5_KPZ.exe.config
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\Lab5_KPZ.exe
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\Lab5_KPZ.pdb
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\AutoMapper.dll
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\Mindscape.WpfElements.dll
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\Mindscape.WpfElements.xml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\Congratulation.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\ControlSettings.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\First.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\ForLoadGame.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\HeaderControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\LuigiControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\MarioControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\OnePlayerUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\RegistrationUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\Second.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\SettingsForTwo.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\SignInUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\TwoPlayerUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Difficulty.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\ExitPage.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\GameMenu.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Load_game.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MainWindow.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MapEditor.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MenuPage.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\NewGame.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Score.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\SettingsPage.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Startup.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\UserChoose.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\App.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Lab5_KPZ_Content.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Lab5_KPZ_MarkupCompile.cache
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Lab5_KPZ_MarkupCompile.lref
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\Congratulation.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\ControlSettings.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\First.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\ForLoadGame.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\HeaderControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\LuigiControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\MarioControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\OnePlayerUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\RegistrationUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\Second.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\SettingsForTwo.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\SignInUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\UserControls\TwoPlayerUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Difficulty.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\ExitPage.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\GameMenu.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Load_game.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MainWindow.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MapEditor.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\MenuPage.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\NewGame.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Score.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\SettingsPage.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\Startup.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\UserChoose.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.g.resources
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.Properties.Resources.resources
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\SuperMarioBros.csproj.GenerateResource.Cache
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.exe.licenses
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.exe
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Lab5_KPZ.pdb
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\SaveRestoreGame.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\Views\XAMLs\SaveRestoreGame.baml
+C:\Users\Vova\Desktop\MarioBros Dudas 4.0\Lab5_KPZ\obj\Debug\SuperMarioBros.csprojResolveAssemblyReference.cache
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\Lab5_KPZ.exe.config
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Lab5_KPZ.exe
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Lab5_KPZ.pdb
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\Views\Source\Images\Items\Blocks\pipe_head.png
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\Styles\OrdinaryStyle\OrdinaryButtonStyle.xaml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\Styles\NightStyle\NightButtonStyle.xaml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\Styles\OrdinaryStyle\OriginaryTextBoxStyle.xaml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\Styles\NightStyle\NightTextBoxStyle.xaml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\Lab5_KPZ.exe
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\Lab5_KPZ.pdb
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\AutoMapper.dll
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\Mindscape.WpfElements.dll
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\Mindscape.WpfElements.xml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\SuperMarioBros.csprojResolveAssemblyReference.cache
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\Congratulation.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\ControlSettings.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\First.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\ForLoadGame.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\HeaderControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\LuigiControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\MarioControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\OnePlayerUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\RegistrationUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\Second.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\SettingsForTwo.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\SignInUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\TwoPlayerUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\Difficulty.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\ExitPage.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\GameMenu.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\Load_game.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\MainWindow.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\MapEditor.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\MenuPage.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\NewGame.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\SaveRestoreGame.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\Score.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\SettingsPage.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\Startup.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\UserChoose.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\App.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Lab5_KPZ_Content.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Lab5_KPZ_MarkupCompile.cache
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Lab5_KPZ_MarkupCompile.lref
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\Congratulation.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\ControlSettings.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\First.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\ForLoadGame.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\HeaderControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\LuigiControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\MarioControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\OnePlayerUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\RegistrationUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\Second.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\SettingsForTwo.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\SignInUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\UserControls\TwoPlayerUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\Difficulty.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\ExitPage.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\GameMenu.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\Load_game.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\MainWindow.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\MapEditor.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\MenuPage.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\NewGame.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\SaveRestoreGame.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\Score.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\SettingsPage.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\Startup.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Views\XAMLs\UserChoose.baml
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Lab5_KPZ.g.resources
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Lab5_KPZ.Properties.Resources.resources
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\SuperMarioBros.csproj.GenerateResource.Cache
+C:\Users\Vova\Desktop\MarioBros Dudas All patterns\Lab5_KPZ\obj\Debug\Lab5_KPZ.exe.licenses
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\Views\Source\Images\Items\Blocks\pipe_head.png
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\Styles\OrdinaryStyle\OrdinaryButtonStyle.xaml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\Styles\NightStyle\NightButtonStyle.xaml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\Styles\OrdinaryStyle\OriginaryTextBoxStyle.xaml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\Styles\NightStyle\NightTextBoxStyle.xaml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\AutoMapper.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\Congratulation.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\ControlSettings.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\First.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\ForLoadGame.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\HeaderControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\LuigiControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\MarioControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\OnePlayerUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\RegistrationUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\Second.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\SettingsForTwo.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\SignInUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\TwoPlayerUserControl.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\Difficulty.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\ExitPage.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\GameMenu.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\MainWindow.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\MapEditor.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\MenuPage.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\NewGame.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\SaveRestoreGame.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\Score.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\SettingsPage.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\Startup.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\UserChoose.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\App.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\Congratulation.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\ControlSettings.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\First.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\ForLoadGame.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\HeaderControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\LuigiControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\MarioControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\OnePlayerUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\RegistrationUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\Second.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\SettingsForTwo.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\SignInUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\UserControls\TwoPlayerUserControl.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\Difficulty.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\ExitPage.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\GameMenu.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\MainWindow.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\MapEditor.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\MenuPage.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\NewGame.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\SaveRestoreGame.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\Score.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\SettingsPage.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\Startup.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\UserChoose.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Lab5_KPZ.Properties.Resources.resources
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\SuperMarioBros.csproj.GenerateResource.Cache
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\EndOfGame.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\Views\XAMLs\EndOfGame.baml
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\MarioBros2015.exe.config
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\MarioBros2015.exe
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\bin\Debug\MarioBros2015.pdb
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\MarioBros2015_Content.g.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\MarioBros2015_MarkupCompile.cache
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\MarioBros2015_MarkupCompile.lref
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\MarioBros2015.g.resources
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\MarioBros2015.exe.licenses
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\MarioBros2015.exe
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\MarioBros2015.pdb

@@ -1,0 +1,65 @@
+﻿<UserControl x:Class="Lab5_KPZ.UserControls.MarioControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Lab5_KPZ.UserControls"
+			 xmlns:gif="http://wpfanimatedgif.codeplex.com"
+             mc:Ignorable="d" 
+             d:DesignHeight="100">
+    <Grid Width="600">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Image Source="images/portrait-mario.png" Grid.Column="0"/>
+        <StackPanel Orientation="Vertical" Grid.Column="1" Grid.ColumnSpan="2" Margin="3,0,147,0">
+            <Label Foreground="White" HorizontalAlignment="Center" Margin="8">
+                <Bold>
+                    <TextBlock FontSize="15" TextAlignment="Center" Text="Mario"/>
+                </Bold>
+            </Label>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="-20">
+                <Label Foreground="White" VerticalAlignment="Stretch"  HorizontalAlignment="Center"
+					   FontSize="20" HorizontalContentAlignment="Center" FontWeight="Bold" 
+					   x:Name="MarioLife" Content="0"/>
+                <Label Foreground="White"  HorizontalAlignment="Center" VerticalAlignment="Stretch" FontSize="20" FontWeight="Bold" HorizontalContentAlignment="Center" Content=" x"/>
+            </StackPanel>
+            <Label Foreground="Teal" HorizontalAlignment="Center" FontWeight="Bold" FontSize="20" VerticalAlignment="Top" Content="{Binding Path=FirstPlayer.Name, Mode=TwoWay}" Margin="10"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical"  Grid.Column="2">
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <Image gif:ImageBehavior.AnimatedSource="../Views/Source/Images/Items/Coins/AnimatedCoin.GIF" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="55" Width="60"/>
+                <Label Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Bold>
+                        <TextBlock FontSize="20" TextAlignment="Center" Text="x "/>
+                    </Bold>
+                </Label>
+                <Label Foreground="Cornsilk" VerticalAlignment="Center" 
+					   x:Name="MarioCoins" Content="0"
+					   HorizontalAlignment="Center" FontWeight="Bold" FontSize="20" HorizontalContentAlignment ="Center"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <Label Foreground="Cornsilk" VerticalAlignment="Center"  HorizontalAlignment="Center"
+					   FontWeight="Bold" FontSize="20" HorizontalContentAlignment ="Center"
+					   Content="0" x:Name="MarioPoints"/>
+                <Label Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Bold>
+                        <TextBlock FontSize="15" TextAlignment="Center" Text=" points "/>
+                    </Bold>
+                </Label>
+            </StackPanel>
+        </StackPanel>
+       
+        <StackPanel Orientation="Vertical" Grid.Column="3">
+            <Label Foreground="White" Grid.Row="1" HorizontalAlignment="Center" Margin="8">
+                <Bold>
+                    <TextBlock FontSize="15" TextAlignment="Center" Text="World"/>
+                </Bold>
+            </Label>
+            <Label Foreground="White" VerticalAlignment="Center"  HorizontalAlignment="Center" FontWeight="Bold" FontSize="20" HorizontalContentAlignment ="Center" Content="1" x:Name="MarioWorld"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

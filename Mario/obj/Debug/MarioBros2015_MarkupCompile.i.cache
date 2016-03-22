@@ -1,0 +1,20 @@
+﻿MarioBros2015
+
+
+winexe
+C#
+.cs
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\obj\Debug\
+Lab5_KPZ
+none
+false
+DEBUG;TRACE
+C:\Users\Vova\Desktop\MarioBros Dudas Demo\Lab5_KPZ\Views\XAMLs\App.xaml
+261811031328
+28-395983290
+1022078229041
+27559660301
+UserControls\Congratulation.xaml;UserControls\ControlSettings.xaml;UserControls\First.xaml;UserControls\ForLoadGame.xaml;UserControls\HeaderControl.xaml;UserControls\LuigiControl.xaml;UserControls\MarioControl.xaml;UserControls\OnePlayerUserControl.xaml;UserControls\RegistrationUserControl.xaml;UserControls\Second.xaml;UserControls\SettingsForTwo.xaml;UserControls\SignInUserControl.xaml;UserControls\TwoPlayerUserControl.xaml;Views\XAMLs\Difficulty.xaml;Views\XAMLs\EndOfGame.xaml;Views\XAMLs\ExitPage.xaml;Views\XAMLs\GameMenu.xaml;Views\XAMLs\MainWindow.xaml;Views\XAMLs\MapEditor.xaml;Views\XAMLs\MenuPage.xaml;Views\XAMLs\NewGame.xaml;Views\XAMLs\SaveRestoreGame.xaml;Views\XAMLs\Score.xaml;Views\XAMLs\SettingsPage.xaml;Views\XAMLs\Startup.xaml;Views\XAMLs\UserChoose.xaml;
+
+False
+
